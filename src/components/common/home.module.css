@@ -1,0 +1,16 @@
+.home {
+    background-image: url('https://lh3.googleusercontent.com/proxy/rmROV9tcR4_gJENHTVaDBwEaoFJ4yPX2DCX4blr9N89x_nzwH0U91skWCQtDLtanlVq7VlguZtnTBu7w29ifDX5qUm5kHxwubdXtTvNedbPA1M_HRVc8fVLNjnTnt7fCXi7JINk');
+    box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.5);
+    background-size: cover;
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    transition: box-shadow .3s ease-out;
+  }
+  .bg_makeTrip {
+      /* background-color: #172052; */
+      box-shadow:rgba(0,0,0,0.3);
+  }
